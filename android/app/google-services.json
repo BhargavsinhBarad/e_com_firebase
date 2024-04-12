@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216884980572",
+    "project_id": "e-com-app-38770",
+    "storage_bucket": "e-com-app-38770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216884980572:android:a4cd853f0cc6f5247eef99",
+        "android_client_info": {
+          "package_name": "com.example.e_com_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7o3j1RSBYZ7VAbSPUzQtn78xZpef7JJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
