@@ -3,7 +3,9 @@
 </div>
 
 ## 📲 Screenshots
-<img src = "https://github.com/BhargavsinhBarad/e_com_firebase/assets/118417960/a579b8c0-7036-42218646-e7d6a038326b" width = "250px">
+
+
+<img src= "https://github.com/BhargavsinhBarad/e_com_firebase/assets/118417960/5d30f8d5-acf8-4d45-93a2-34526aafb0ad" width = "250px">
 <img src= "https://github.com/BhargavsinhBarad/e_com_firebase/assets/118417960/fd76ab20-9ed9-41d4-a665-132bdaad2000" width = "250px">
 <img src= "https://github.com/BhargavsinhBarad/e_com_firebase/assets/118417960/eed8ebb3-5453-4a50-bff0-9a859db86a6f" width = "250px">
 <img src= "https://github.com/BhargavsinhBarad/e_com_firebase/assets/118417960/cfac7103-55be-45fe-bc51-70174cc92938" width = "250px">
